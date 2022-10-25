@@ -46,5 +46,37 @@
 	background-color: white;
 	color: black;
 }
+.five{
+	width: 100%;
+}
+.five h1{
+	color: white;
+}
+.div7 {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	padding: 2% 0% 10% 5%;
+	
+}
+.div7 a{
+	text-decoration: none;
 
+
+}
+.five{
+	background-color: #00baf2;
+	padding:  2.5%;
+
+}
+.div7 img{
+	width: 50%;
+
+}
+#div6{
+	width: 40%;
+}
+.div1{
+	display: flex;
+}
 
